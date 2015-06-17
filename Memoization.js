@@ -1,4 +1,4 @@
-var SwiftQuery = (function(){
+var SwiftMemoization = (function(){
   var CACHE = {};
 
   return{  
